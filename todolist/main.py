@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 import requests
 
 # Создаем экземпляр бота
-bot = telebot.TeleBot("8187661111:AAHDXm_0874RGrzAnSUyt9tWP36v8-n9uIE")
+bot = telebot.TeleBot("Ваш токен ")
 
 API = '3bc01ac5bd3c54d9202761907c5e5283'
 
